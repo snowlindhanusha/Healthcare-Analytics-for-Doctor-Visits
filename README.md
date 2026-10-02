@@ -15,7 +15,7 @@ Some people visit a doctor many times, while most never visit at all. Healthcare
 - Profile the "high users" (people with 2 or more visits).
 
 ## Dataset
-- **Rows:** 5,190 | **Columns:** 12 | **Missing values:** none
+- **Rows:** 5,190 | **Columns:** 13 | **Missing values:** none
 - **Target variable:** `visits`
 
 | Column | Description |
